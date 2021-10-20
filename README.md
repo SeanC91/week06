@@ -1,1 +1,5 @@
-# week06
+# week06![week6-1](https://user-images.githubusercontent.com/91170815/138025674-2f52f095-1f23-47e0-8b99-260fc7ece50b.png)
+![week6-2](https://user-images.githubusercontent.com/91170815/138025683-02da0e92-58c0-4e21-b3fb-a3a01885f816.png)
+![week6-4](https://user-images.githubusercontent.com/91170815/138025687-44f0b18b-96d9-4ab4-8dfb-1bb044e5071e.png)
+![week6-3](https://user-images.githubusercontent.com/91170815/138025693-ff71b595-bb8c-46a0-a49d-5853f74cfaf4.png)
+![week6-5](https://user-images.githubusercontent.com/91170815/138025696-55a0a57e-bb28-4d9c-aadf-235d992776b0.png)
